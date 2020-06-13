@@ -1,0 +1,2 @@
+# COIVD19_India
+The forecast of New corona cases in India will help in determining the magnitude of the coronavirus pandemic in coming days. Which will help the central and state governments to embrace for the future challenges and prepare for it in order to make forecast fail. Daily death prediction will also help the central and state governments to judge their health care system and the arrangements made to cure coronavirus effected people. This will lead the health care system to optimize better for future cases. 
